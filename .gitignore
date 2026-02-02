@@ -1,0 +1,9 @@
+FactSheet.ipynb
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+env/
+*.pyc
+*.pyo
+*.pyd
